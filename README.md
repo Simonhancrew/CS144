@@ -4,7 +4,9 @@ CS144 : Computer Networks
 
 ## Lab Session
 
-8 labs in total, which guides you to implement a complete Internet infrastructure step by step. Here is a brief overview of each lab :
+8 labs in total, which guides you to implement a complete Internet infrastructure step by step. 
+
+Here is a brief overview of each lab :
 
 + lab0: simple internet application
 
@@ -26,6 +28,7 @@ CS144 : Computer Networks
 
 ## Reference
 
++ [Official Website](https://cs144.github.io/)
 + [
 CS144-Computer-Network](https://github.com/PKUFlyingPig/CS144-Computer-Network)
 
